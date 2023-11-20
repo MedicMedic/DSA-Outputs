@@ -1,2 +1,2 @@
-# DSA-Outputs
-Data Structures and Algorithm Output
+# DSA Outputs
+Data Structures and Algorithm Outputs
